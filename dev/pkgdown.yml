@@ -1,10 +1,12 @@
-pandoc: 2.7.3
-pkgdown: 1.6.1.9001
-pkgdown_sha: 632889250b23aae88d6b3adcc0afd48160cb17ca
+pandoc: 2.14.2
+pkgdown: 2.0.3.9000
+pkgdown_sha: 9dee019f9983b86585a77a3b1a1459b9f0390fe6
 articles:
+  cran-automation: cran-automation.html
   demo: demo.html
   fledge: fledge.html
-last_built: 2021-09-28T14:30Z
+  internals: internals.html
+last_built: 2022-05-24T01:48Z
 urls:
   reference: https://cynkra.github.io/fledge/reference
   article: https://cynkra.github.io/fledge/articles
